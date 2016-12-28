@@ -10,6 +10,8 @@
  - Javascript
  - jQuery
  - Angular 2
+ - Heroku
+ - Codeship or TravisCI
 
 ### Extra Credit / You'll get a toast of these:
 1) Understand how to utilize the following libraries:
@@ -24,3 +26,4 @@
 1) Have a basic understanding of:
  - Node.js
  - Postgress and SQL
+ -
