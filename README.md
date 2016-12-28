@@ -12,6 +12,7 @@
  - Angular 2
  - Heroku
  - Codeship or TravisCI
+ - NPM 
 
 ### Extra Credit / You'll get a toast of these:
 1) Understand how to utilize the following libraries:
